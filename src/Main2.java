@@ -5,6 +5,7 @@ public class Main2 {
     public static void main(String[] args) {
         System.out.println("git");
         System.out.println("new line");
+        System.out.println("next");
 
     }
 }
